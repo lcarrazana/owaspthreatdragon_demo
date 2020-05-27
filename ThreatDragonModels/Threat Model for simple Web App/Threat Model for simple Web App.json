@@ -1,0 +1,11 @@
+{
+  "summary": {
+    "title": "Threat Model for simple Web App",
+    "owner": "Luis Carrazana",
+    "description": "A simple 3-tier web app: Frontend, Backend, DB"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": []
+  }
+}
